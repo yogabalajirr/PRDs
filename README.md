@@ -10,7 +10,7 @@ I'm **Yogabalaji R R**, a Computer Science graduate moving into product manageme
 
 | PRD | What it's about | What it demonstrates |
 |---|---|---|
-| [TicketFlow](./TicketFlow_PRD.md) | A lightweight customer-support ticketing tool for small teams (5–50 agents), positioned as a faster, cheaper alternative to Zendesk and Freshdesk. | Market positioning, MVP scoping, P0/P1/P2 prioritization, success metrics, risk analysis, and clear non-goals. |
+| [TicketFlow](TicketFlow_PRD.md) | A lightweight customer-support ticketing tool for small teams (5–50 agents), positioned as a faster, cheaper alternative to Zendesk and Freshdesk. | Market positioning, MVP scoping, P0/P1/P2 prioritization, success metrics, risk analysis, and clear non-goals. |
 | _Calorie Tracking App_ | <!-- short one-line summary --> | <!-- e.g. user research, roadmap, iterative MVP --> |
 | _Add your next PRD here_ | | |
 
