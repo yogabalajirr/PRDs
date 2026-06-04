@@ -11,10 +11,9 @@ I'm **Yogabalaji R R**, a Computer Science graduate moving into product manageme
 | PRD | What it's about | What it demonstrates |
 |---|---|---|
 | [TicketFlow](TicketFlow_PRD.md) | A lightweight customer-support ticketing tool for small teams (5–50 agents), positioned as a faster, cheaper alternative to Zendesk and Freshdesk. | Market positioning, MVP scoping, P0/P1/P2 prioritization, success metrics, risk analysis, and clear non-goals. |
-| _Calorie Tracking App_ | <!-- short one-line summary --> | <!-- e.g. user research, roadmap, iterative MVP --> |
+| [WeeFit](./WeeFit-PRD.md) | A social, gamified calorie & nutrition tracker with Indian-cuisine-heavy food logging, a points/streaks loop, and a friends-only leaderboard. | Reverse-engineering a PRD from a shipped app, MVP scoping, P0/P1/P2 prioritization, gamification & retention design, leading vs. lagging metrics, and risk surfacing. |
 | _Add your next PRD here_ | | |
 
-> Tip: keep one row per document. Update the link path to match the actual file name in this repo.
 
 ---
 
