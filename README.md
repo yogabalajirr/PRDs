@@ -51,7 +51,6 @@ Recent Computer Science graduate seeking a **Product Management internship or en
 ## Contact
 
 - **Email:** yogabalajirr@gmail.com
-- **LinkedIn:** <!-- paste your LinkedIn URL here -->
 - **Location:** Thanjavur, Tamil Nadu, India
 
 ---
