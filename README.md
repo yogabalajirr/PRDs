@@ -1,5 +1,7 @@
 # Product Management Portfolio — PRDs
 
+> **How to read the numbers in these documents:** targets, KPIs and market figures are **hypotheses written for learning and demonstration**, not measured results, unless a document explicitly marks a figure as *measured*. Early-user testing for WeeFit involved 5 testers, which is a small sample, not a statistically meaningful one.
+
 A collection of sample **Product Requirements Documents** I've written to sharpen my product thinking: framing the problem, prioritizing ruthlessly, defining success metrics, and scoping a buildable MVP. Each document takes a product from a problem statement through to a clear, defined v1.
 
 I'm **Yogabalaji R R**, a Computer Science graduate moving into product management. I like building things end to end, so several of these PRDs are for products I designed and built myself.
@@ -14,6 +16,15 @@ I'm **Yogabalaji R R**, a Computer Science graduate moving into product manageme
 | [WeeFit](./WeeFit-PRD.md) | A social, gamified calorie & nutrition tracker with Indian-cuisine-heavy food logging, a points/streaks loop, and a friends-only leaderboard. | Reverse-engineering a PRD from a shipped app, MVP scoping, P0/P1/P2 prioritization, gamification & retention design, leading vs. lagging metrics, and risk surfacing. |
 
 
+### More documents (PDF, on the portfolio site)
+
+| Document | What it is |
+|---|---|
+| [Live EV Charger App for India](https://yogabalaji-portfolio.vercel.app/EV_Charging_Reliability_PRD.pdf) | A pitch PRD for a cross-operator charger-reliability layer, with kill criteria at a six-week gate. |
+| [Offline-First Architecture for WeeFit](https://yogabalaji-portfolio.vercel.app/WeeFit_Offline_First_Case_Study.pdf) | A case study of the Supabase + localStorage sync design. Reliability and speed figures are design targets, not production measurements. |
+| [Loan Default Risk Analysis](https://yogabalaji-portfolio.vercel.app/loan-default-risk-prd.pdf) | A Python/SQL analysis turned into a PRD for a borrower risk-scoring feature. |
+
+Full portfolio: https://yogabalaji-portfolio.vercel.app · LinkedIn: https://www.linkedin.com/in/yogabalajirr
 
 ---
 
@@ -53,6 +64,3 @@ Recent Computer Science graduate seeking a **Product Management internship or en
 - **Email:** yogabalajirr@gmail.com
 - **Location:** Thanjavur, Tamil Nadu, India
 
----
-
-> These are sample / portfolio documents created for learning and demonstration. Any targets or metrics in them are illustrative hypotheses unless stated otherwise.
